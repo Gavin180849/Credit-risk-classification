@@ -4,11 +4,11 @@ The purpose of the analysis is to create supervised machine learning that will p
 
 ## Results
 * Description of Model 1 Accuracy, Precision, and Recall scores.
-    *The Accuracy score was 99.3%.
-    *Precision for healthy loans was 100%
-    *Precision for high risk loans was 87%
-     *Recall for healthy loans was 100%
-     *Recall high risk loans was 95%
+   * The Accuracy score was 99.3%.
+   * Precision for healthy loans was 100%
+   * Precision for high risk loans was 87%
+   * Recall for healthy loans was 100%
+   * Recall high risk loans was 95%
 
 ## Summary
 The logistic regression model does a good job of predicting if someone is going to go into default on their loan with an accuracy score of 99.3%. The precision and recall for the healthy loans (0) was 100%. the precision for high risk loans was 87% with a recall of 95%, which is still fairly good. 
